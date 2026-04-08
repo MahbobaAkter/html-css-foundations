@@ -49,3 +49,12 @@ git push
 - One project = one repo
 - Always organize folders properly
 - Commit after every progress
+
+## Important Workflow
+
+Always before pushing:
+
+git pull origin main --rebase
+git push
+
+nn
